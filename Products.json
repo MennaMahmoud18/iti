@@ -1,0 +1,57 @@
+[{
+  "id":1,
+  "name":"HONEST GLOW Skin",
+  "price":14.25 ,
+  "image":"img/images (2).jpg"
+ 
+},
+{
+  "id":2,
+  "name":"Luminous Serum",
+  "price":30.25 ,
+  "image":"img/images (5).jpg"
+  
+},
+{
+  "id":3,
+  "name":"HONEST GLOW Skin ",
+  "price":20.75 ,
+  "image":"img/download.jpg"
+  
+},
+{
+  "id":4,
+  "name":"Hyaluronic Acid Serum",
+  "price":27.75 ,
+  "image":"img/9.jpg"
+  
+},
+{
+  "id":5,
+  "name":"Cherry Blossom Serum",
+  "price":35.75 ,
+  "image":"img/8.jpg"
+  
+},
+{
+  "id":6,
+  "name":"Glass Skin Glow Serum ",
+  "price":50.34,
+  "image":"img/images (4).jpg"
+ 
+},
+{
+ "id":7,
+  "name":"Truly - Glass Skin Facial ",
+  "price": 40.75 ,
+  "image":"img/images (1).jpg",
+  "description":"Achieve radiant, glass-like skin with Honest Glow Glass Skin Serum, a lightweight formula enriched with hyaluronic acid and vitamin C to deeply hydrate, brighten, and smooth your skin for a flawless, dewy finish. Perfect for all skin types, it’s your ultimate glow booster!"
+},
+{
+  "id":8,
+  "name":"Glass Skin Repair ",
+  "price":45.86 ,
+  "image":"img/images (3).jpg"
+  
+}
+]
